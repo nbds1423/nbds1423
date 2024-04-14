@@ -1,6 +1,6 @@
 # Sobre mim
 Em busca de uma vaga na área tech. Gosto de programar desde a adolescencia. porém, só fui começar a estudar sobre programação recentemente. <br>Estou na busca de ganhar mais experiência e trabalhar em projetos reais **(Já trabalhei como freelancer)**. Estou muito disposto a trabalhar em equipe **(Sempre fiz projeto sozinho)**, para trazer melhoria e produtos melhores para empresa.<br><br>
-Sou um futuro **Junior** que gosta de estudas novas **linguagens e framework**, e que não tem problema algum em mudar de **linguagem ou framework**. Tenho preferência no **Backend**, se precisar mudar para o **Frontend** estou disposto!<br>
+Sou um futuro **Junior** que gosta de estudar sobre novas **linguagens e framework**. não tenho problema algum em mudar de **linguagem ou framework**. Tenho preferência no **Backend**, se precisar mudar para o **Frontend** estou disposto!<br>
 
 # Contato (Clique no ícone)
 <a href="https://www.linkedin.com/in/nbds/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="https://www.linkedin.com/in/nbds/" target="_blank"/></a>
