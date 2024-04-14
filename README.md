@@ -7,7 +7,7 @@ Sou um futuro **Junior** que gosta de estudar sobre novas **linguagens e framewo
 <a href="mailto://nbd.silva1423@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="mailto://nbd.silva1423@gmail.com" target="_blank"/></a>
 
 # Habilidades
-* Aqui está ás **Linguagenss, Runtime, Framework, IDE e outras coisas que eu já usei**. Não adicionei tudo pois não lembro tudo de cabeça.<br>
+* Aqui está algumas **Linguagens, Runtime, Framework, IDE e outras coisas que eu já usei**<br>
 * Como eu já disse, não tenho problema algum em aprender novas ferramentas! pois estou disposto a tudo para melhorar e ajudar os membros do time para entregar um produto de qualidade para empresa.
 
 * <details open>
