@@ -17,7 +17,7 @@ Sou um futuro **Junior** que gosta de estudar sobre novas **linguagens e framewo
 
 * <details open>
     <summary>𝙇𝙄𝙉𝙂𝙐𝘼𝙂𝙀𝙉𝙎 𝙌𝙐𝙀 𝙅𝘼́ 𝙁𝙄𝙕 𝙋𝙍𝙊𝙅𝙀𝙏𝙊𝙎 (𝙋𝙊𝙐𝘾𝘼 𝙀𝙓𝙋𝙀𝙍𝙄𝙀̂𝙉𝘾𝙄𝘼)</summary>
-    <img src="https://skillicons.dev/icons?i=python,rust,cs,go,elixir,c,cpp,java,v,lua,php&theme=dark&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=python,go,java,php&theme=dark&perline=5"/>
 </details>
 
 * <details open>
